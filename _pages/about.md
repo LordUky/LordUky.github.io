@@ -27,4 +27,10 @@ Hobbies
 [👀Flying self-designed and self-built model in Armenia 🇦🇲](https://www.bilibili.com/video/BV11u4y1B7Ny/?vd_source=6af760c6de114802b89246a3ef874ad8)   
 
 
+Other Skills
+------
+⚫ Computer: Linux, Python, C++, Java, R, machine learning, deep learning, computer vision, multimodal AI, bioinformatics, quantum computing, SolidWorks, Word, Excel, PowerPoint    
+⚫ Language: Mandarin (native), English (IELTS: 8), Cantonese (basic)
+
+
 
