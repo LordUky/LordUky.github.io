@@ -19,15 +19,12 @@ Hobbies
 ------
 🎻Violin (Grade 10)   
 
-[Viva la vida](https://www.bilibili.com/video/BV1xa411m71B/?vd_source=6af760c6de114802b89246a3ef874ad8)   
-
-[Original song by me and my friend](https://www.bilibili.com/video/BV1pS4y157sY/?vd_source=6af760c6de114802b89246a3ef874ad8)   
-
-[Another play on Christmas](https://www.bilibili.com/video/BV1x34y1y7iF/?vd_source=6af760c6de114802b89246a3ef874ad8)   
+[👀Viva la vida](https://www.bilibili.com/video/BV1xa411m71B/?vd_source=6af760c6de114802b89246a3ef874ad8)   
+[👀Original song by me and my friend](https://www.bilibili.com/video/BV1pS4y157sY/?vd_source=6af760c6de114802b89246a3ef874ad8)   
+[👀Another play on Christmas](https://www.bilibili.com/video/BV1x34y1y7iF/?vd_source=6af760c6de114802b89246a3ef874ad8)   
 
 ✈🚗RC aircraft (fixed-wing) and car model    
-
-[Flying self-designed and self-built model in Armenia 🇦🇲](https://www.bilibili.com/video/BV11u4y1B7Ny/?vd_source=6af760c6de114802b89246a3ef874ad8)   
+[👀Flying self-designed and self-built model in Armenia 🇦🇲](https://www.bilibili.com/video/BV11u4y1B7Ny/?vd_source=6af760c6de114802b89246a3ef874ad8)   
 
 
 
