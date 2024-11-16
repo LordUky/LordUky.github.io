@@ -16,8 +16,8 @@ author_profile: true
 {% endfor %} -->
 ### (On-going) Towards On-demand Dynamic Temporal Visual Search in VideoLLMs
 
-_Zheyu Fan, Jiateng Liu, Yuji Zhang, Yi Ren Fung, Manling Li, Yanchao Yang †, Heng Ji † _  
+_Zheyu Fan, Jiateng Liu, Yuji Zhang, Yi Ren Fung, Manling Li, Yanchao Yang †, Heng Ji †_  
 
 
 ### (On-going) Hyper-graph Neuron Network for Diagnosing Acute Bacterial and Viral Infection
-_Zheyu Fan*, Yuxuan Chen*, Hoshing Yuen*, Chonghan Qin, Zhouming Xu, Lixin Cheng † _
+_Zheyu Fan*, Yuxuan Chen*, Hoshing Yuen*, Chonghan Qin, Zhouming Xu, Lixin Cheng †_
