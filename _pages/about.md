@@ -30,7 +30,10 @@ Hobbies
 Other Random Skills
 ======
 ⚫ Computer: Linux, Python, C++, Java, R, machine learning, deep learning, computer vision, multimodal AI, bioinformatics, quantum computing, SolidWorks, Word, Excel, PowerPoint    
-⚫ Language: Mandarin (native), English (IELTS: 8), Cantonese (basic)
+⚫ Language:    
+   Mandarin (native),    
+   English (IELTS: 8),    
+   Cantonese (basic)
 
 
 
