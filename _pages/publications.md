@@ -14,7 +14,10 @@ author_profile: true
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-### Statistical Acoustic Sensing For Real-Time Respiration Monitoring and Presence Detection
+### (On-going) Towards On-demand Dynamic Temporal Visual Search in VideoLLMs
 
-_Sheng Lyu, Ruiming Huang, Yuemin Yu, Chenshu Wu_  
-Mobisys’ 2024 Demos, DOI: [10.1145/3643832.3661846](https://doi.org/10.1145/3643832.3661846)
+_Zheyu Fan, Jiateng Liu, Yuji Zhang, Yi Ren Fung, Manling Li, Yanchao Yang †, Heng Ji † _  
+
+
+### (On-going) Hyper-graph Neuron Network for Diagnosing Acute Bacterial and Viral Infection
+_Zheyu Fan*, Yuxuan Chen*, Hoshing Yuen*, Chonghan Qin, Zhouming Xu, Lixin Cheng † _
