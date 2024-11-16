@@ -23,7 +23,8 @@ Hobbies
 [👀Another play on Christmas](https://www.bilibili.com/video/BV1x34y1y7iF/?vd_source=6af760c6de114802b89246a3ef874ad8)   
 
 ✈🚗RC aircraft (fixed-wing) and car model    
-[👀Flying self-designed and self-built model in Armenia 🇦🇲](https://www.bilibili.com/video/BV11u4y1B7Ny/?vd_source=6af760c6de114802b89246a3ef874ad8)   
+[👀Flying self-designed and self-built model in Armenia 🇦🇲](https://www.bilibili.com/video/BV11u4y1B7Ny/?vd_source=6af760c6de114802b89246a3ef874ad8)    
+[👀HKU Innoshow (HKU Robomaster)](https://innoacademy.engg.hku.hk/hkur4/)
 
 
 Other Random Skills
