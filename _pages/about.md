@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Zheyu Fan (Uky, _pronounce: Yuki_), a year-4 undergraduate student at The University of Hong Kong (HKU) pursuing a bachelor’s degree in engineering with a major in computer science. 
+This is Zheyu Fan (Uky, _pronounce: 'Yuki'_), a year-4 undergraduate student at The University of Hong Kong (HKU) pursuing a bachelor’s degree in engineering with a major in computer science. 
 
 
 
